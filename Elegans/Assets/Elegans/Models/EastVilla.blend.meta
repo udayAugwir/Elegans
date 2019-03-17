@@ -17,6 +17,8 @@ ModelImporter:
     100022: Cube_006
     100024: Cube_009
     100026: Cube_013
+    100028: Plane
+    100030: Plane_001
     400000: Cube
     400002: //RootNode
     400004: FirstFloor
@@ -31,11 +33,14 @@ ModelImporter:
     400022: Cube_006
     400024: Cube_009
     400026: Cube_013
+    400028: Plane
+    400030: Plane_001
     2100000: unnamed
     2100002: Stairs_Main
     2100004: StairsGlass
     2100006: StairsBottom
     2100008: Material
+    2100010: Material_001
     2300000: Cube
     2300002: FirstFloor
     2300004: GroundFloor
@@ -49,6 +54,8 @@ ModelImporter:
     2300020: Cube_006
     2300022: Cube_009
     2300024: Cube_013
+    2300026: Plane
+    2300028: Plane_001
     3300000: Cube
     3300002: FirstFloor
     3300004: GroundFloor
@@ -62,6 +69,8 @@ ModelImporter:
     3300020: Cube_006
     3300022: Cube_009
     3300024: Cube_013
+    3300026: Plane
+    3300028: Plane_001
     4300000: Cube
     4300002: GroundFloor
     4300004: FirstFloor
@@ -75,6 +84,8 @@ ModelImporter:
     4300020: Cube_013
     4300022: Cube_009
     4300024: Cube_006
+    4300026: Plane
+    4300028: Plane_001
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
