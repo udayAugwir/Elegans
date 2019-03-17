@@ -19,6 +19,22 @@ ModelImporter:
     100026: Cube_013
     100028: Plane
     100030: Plane_001
+    100032: WindowPlane
+    100034: WindowPlane_001
+    100036: WindowPlane_002
+    100038: WindowPlane_003
+    100040: WindowPlane_004
+    100042: WindowPlane_005
+    100044: WindowPlane_006
+    100046: WindowPlane_007
+    100048: WindowPlane_008
+    100050: WindowPlane_009
+    100052: WindowPlane_010
+    100054: WindowPlane_011
+    100056: Cube_007
+    100058: Cylinder
+    100060: SecondFloor_001
+    100062: GroundFloor_001
     400000: Cube
     400002: //RootNode
     400004: FirstFloor
@@ -35,6 +51,22 @@ ModelImporter:
     400026: Cube_013
     400028: Plane
     400030: Plane_001
+    400032: WindowPlane
+    400034: WindowPlane_001
+    400036: WindowPlane_002
+    400038: WindowPlane_003
+    400040: WindowPlane_004
+    400042: WindowPlane_005
+    400044: WindowPlane_006
+    400046: WindowPlane_007
+    400048: WindowPlane_008
+    400050: WindowPlane_009
+    400052: WindowPlane_010
+    400054: WindowPlane_011
+    400056: Cube_007
+    400058: Cylinder
+    400060: SecondFloor_001
+    400062: GroundFloor_001
     2100000: unnamed
     2100002: Stairs_Main
     2100004: StairsGlass
@@ -56,6 +88,22 @@ ModelImporter:
     2300024: Cube_013
     2300026: Plane
     2300028: Plane_001
+    2300030: WindowPlane
+    2300032: WindowPlane_001
+    2300034: WindowPlane_002
+    2300036: WindowPlane_003
+    2300038: WindowPlane_004
+    2300040: WindowPlane_005
+    2300042: WindowPlane_006
+    2300044: WindowPlane_007
+    2300046: WindowPlane_008
+    2300048: WindowPlane_009
+    2300050: WindowPlane_010
+    2300052: WindowPlane_011
+    2300054: Cube_007
+    2300056: Cylinder
+    2300058: SecondFloor_001
+    2300060: GroundFloor_001
     3300000: Cube
     3300002: FirstFloor
     3300004: GroundFloor
@@ -71,6 +119,22 @@ ModelImporter:
     3300024: Cube_013
     3300026: Plane
     3300028: Plane_001
+    3300030: WindowPlane
+    3300032: WindowPlane_001
+    3300034: WindowPlane_002
+    3300036: WindowPlane_003
+    3300038: WindowPlane_004
+    3300040: WindowPlane_005
+    3300042: WindowPlane_006
+    3300044: WindowPlane_007
+    3300046: WindowPlane_008
+    3300048: WindowPlane_009
+    3300050: WindowPlane_010
+    3300052: WindowPlane_011
+    3300054: Cube_007
+    3300056: Cylinder
+    3300058: SecondFloor_001
+    3300060: GroundFloor_001
     4300000: Cube
     4300002: GroundFloor
     4300004: FirstFloor
@@ -86,6 +150,22 @@ ModelImporter:
     4300024: Cube_006
     4300026: Plane
     4300028: Plane_001
+    4300030: WindowPlane_003
+    4300032: WindowPlane_002
+    4300034: WindowPlane_001
+    4300036: WindowPlane
+    4300038: WindowPlane_010
+    4300040: WindowPlane_009
+    4300042: WindowPlane_008
+    4300044: WindowPlane_007
+    4300046: WindowPlane_006
+    4300048: WindowPlane_005
+    4300050: WindowPlane_004
+    4300052: WindowPlane_011
+    4300054: SecondFloor_001
+    4300056: Cylinder
+    4300058: Cube_007
+    4300060: GroundFloor_001
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
