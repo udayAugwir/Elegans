@@ -21,6 +21,10 @@ ModelImporter:
     100030: Plane
     100032: Plane_002
     100034: Plane_003
+    100036: FF_Floor
+    100038: FF_Glas
+    100040: FF_Metal
+    100042: FF_Walls
     400000: //RootNode
     400002: Cube
     400004: Cube_001
@@ -39,8 +43,16 @@ ModelImporter:
     400030: Plane
     400032: Plane_002
     400034: Plane_003
+    400036: FF_Floor
+    400038: FF_Glas
+    400040: FF_Metal
+    400042: FF_Walls
     2100000: unnamed
     2100002: Material
+    2100004: Floo1
+    2100006: Material_001
+    2100008: Metal
+    2100010: Walls
     2300000: Cube
     2300002: Cube_001
     2300004: Cube_002
@@ -58,6 +70,10 @@ ModelImporter:
     2300028: Plane
     2300030: Plane_002
     2300032: Plane_003
+    2300034: FF_Floor
+    2300036: FF_Glas
+    2300038: FF_Metal
+    2300040: FF_Walls
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -75,6 +91,10 @@ ModelImporter:
     3300028: Plane
     3300030: Plane_002
     3300032: Plane_003
+    3300034: FF_Floor
+    3300036: FF_Glas
+    3300038: FF_Metal
+    3300040: FF_Walls
     4300000: Cube_004
     4300002: Plane_001
     4300004: Plane_000
@@ -92,6 +112,10 @@ ModelImporter:
     4300028: Plane_002
     4300030: Plane
     4300032: Plane_003
+    4300034: FF_Floor
+    4300036: FF_Glas
+    4300038: FF_Metal
+    4300040: FF_Walls
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
