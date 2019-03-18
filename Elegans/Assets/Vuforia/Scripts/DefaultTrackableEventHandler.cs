@@ -8,6 +8,7 @@ Confidential and Proprietary - Protected under copyright and other laws.
 
 using UnityEngine;
 using Vuforia;
+using UnityEngine.UI;
 
 /// <summary>
 /// A custom handler that implements the ITrackableEventHandler interface.
@@ -17,6 +18,9 @@ using Vuforia;
 /// </summary>
 public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
 {
+    public Canvas Canv;
+    public GameObject infoIcon;
+
     #region PROTECTED_MEMBER_VARIABLES
 
     protected TrackableBehaviour mTrackableBehaviour;
@@ -83,6 +87,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 
     protected virtual void OnTrackingFound()
     {
+        infoIcon.SetActive(true);
         var rendererComponents = GetComponentsInChildren<Renderer>(true);
         var colliderComponents = GetComponentsInChildren<Collider>(true);
         var canvasComponents = GetComponentsInChildren<Canvas>(true);
@@ -103,6 +108,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 
     protected virtual void OnTrackingLost()
     {
+        Canv.gameObject.SetActive(false);
         var rendererComponents = GetComponentsInChildren<Renderer>(true);
         var colliderComponents = GetComponentsInChildren<Collider>(true);
         var canvasComponents = GetComponentsInChildren<Canvas>(true);
