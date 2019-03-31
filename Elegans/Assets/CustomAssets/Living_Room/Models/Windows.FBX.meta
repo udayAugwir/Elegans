@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: b57d47272b972894ca03e211f5a3f667
+timeCreated: 1481023816
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Plane004
+    100002: Plane005
+    100004: Rectangle001
+    100006: Rectangle002
+    100008: Rectangle003
+    100010: Rectangle004
+    100012: Rectangle005
+    100014: szyba_03
+    100016: //RootNode
+    100018: Drzwi_Rozsuwane
+    100020: Drzwi_Rozsuwane_02
+    100022: Rama
+    100024: Balcony_doors_01
+    100026: Balcony_doors_02
+    100028: Frame_01
+    100030: Frame_02
+    100032: Frame_03
+    100034: Glass_01
+    100036: Glass_02
+    100038: Glass_03
+    400000: Plane004
+    400002: Plane005
+    400004: Rectangle001
+    400006: Rectangle002
+    400008: Rectangle003
+    400010: Rectangle004
+    400012: Rectangle005
+    400014: szyba_03
+    400016: //RootNode
+    400018: Drzwi_Rozsuwane
+    400020: Drzwi_Rozsuwane_02
+    400022: Rama
+    400024: Balcony_doors_01
+    400026: Balcony_doors_02
+    400028: Frame_01
+    400030: Frame_02
+    400032: Frame_03
+    400034: Glass_01
+    400036: Glass_02
+    400038: Glass_03
+    2300000: Plane004
+    2300002: Plane005
+    2300004: Rectangle001
+    2300006: Rectangle002
+    2300008: Rectangle003
+    2300010: Rectangle004
+    2300012: Rectangle005
+    2300014: szyba_03
+    2300016: Drzwi_Rozsuwane
+    2300018: Drzwi_Rozsuwane_02
+    2300020: Rama
+    2300022: Balcony_doors_01
+    2300024: Balcony_doors_02
+    2300026: Frame_01
+    2300028: Frame_02
+    2300030: Frame_03
+    2300032: Glass_01
+    2300034: Glass_02
+    2300036: Glass_03
+    3300000: Plane004
+    3300002: Plane005
+    3300004: Rectangle001
+    3300006: Rectangle002
+    3300008: Rectangle003
+    3300010: Rectangle004
+    3300012: Rectangle005
+    3300014: szyba_03
+    3300016: Drzwi_Rozsuwane
+    3300018: Drzwi_Rozsuwane_02
+    3300020: Rama
+    3300022: Balcony_doors_01
+    3300024: Balcony_doors_02
+    3300026: Frame_01
+    3300028: Frame_02
+    3300030: Frame_03
+    3300032: Glass_01
+    3300034: Glass_02
+    3300036: Glass_03
+    4300000: Rectangle001
+    4300002: Rectangle002
+    4300004: Rectangle003
+    4300006: Rectangle004
+    4300008: Rectangle005
+    4300010: Plane004
+    4300012: Plane005
+    4300014: szyba_03
+    4300016: Rama
+    4300018: Drzwi_Rozsuwane
+    4300020: Drzwi_Rozsuwane_02
+    4300022: Frame_03
+    4300024: Glass_03
+    4300026: Glass_02
+    4300028: Frame_01
+    4300030: Balcony_doors_01
+    4300032: Frame_02
+    4300034: Balcony_doors_02
+    4300036: Glass_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

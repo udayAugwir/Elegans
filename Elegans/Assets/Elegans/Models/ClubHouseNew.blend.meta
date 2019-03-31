@@ -95,6 +95,7 @@ ModelImporter:
     400088: CB_Rooms_FirstFloor_009
     2100000: unnamed
     2100002: Material
+    2100004: Material_001
     2300000: CB_Rooms_FirstFloor
     2300002: CB_Rooms_SecondFloor
     2300004: CB_Rooms_TirdFloor
@@ -269,7 +270,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
