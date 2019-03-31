@@ -29,6 +29,25 @@ ModelImporter:
     100046: CBStairs
     100048: CBStairs_001
     100050: CB_Rooms_FirstFloor_002
+    100052: CB_Rooms_ThirdFloor
+    100054: Support
+    100056: Support_001
+    100058: CB_Rooms_FirstFloor_003
+    100060: CBStairs_002
+    100062: Support_002
+    100064: Stage
+    100066: CB_Rooms_SecondFloor_001
+    100068: CB_Rooms_FirstFloor_004
+    100070: CB_Rooms_FirstFloor_005
+    100072: CB_Rooms_SecondFloor_002
+    100074: CB_Rooms_SecondFloor_003
+    100076: CB_Rooms_FirstFloor_006
+    100078: Cube_001
+    100080: Cube_011
+    100082: Cube_012
+    100084: CB_Rooms_FirstFloor_007
+    100086: CB_Rooms_FirstFloor_008
+    100088: CB_Rooms_FirstFloor_009
     400000: CB_Rooms_FirstFloor
     400002: CB_Rooms_SecondFloor
     400004: CB_Rooms_TirdFloor
@@ -55,6 +74,25 @@ ModelImporter:
     400046: CBStairs
     400048: CBStairs_001
     400050: CB_Rooms_FirstFloor_002
+    400052: CB_Rooms_ThirdFloor
+    400054: Support
+    400056: Support_001
+    400058: CB_Rooms_FirstFloor_003
+    400060: CBStairs_002
+    400062: Support_002
+    400064: Stage
+    400066: CB_Rooms_SecondFloor_001
+    400068: CB_Rooms_FirstFloor_004
+    400070: CB_Rooms_FirstFloor_005
+    400072: CB_Rooms_SecondFloor_002
+    400074: CB_Rooms_SecondFloor_003
+    400076: CB_Rooms_FirstFloor_006
+    400078: Cube_001
+    400080: Cube_011
+    400082: Cube_012
+    400084: CB_Rooms_FirstFloor_007
+    400086: CB_Rooms_FirstFloor_008
+    400088: CB_Rooms_FirstFloor_009
     2100000: unnamed
     2100002: Material
     2300000: CB_Rooms_FirstFloor
@@ -82,6 +120,25 @@ ModelImporter:
     2300044: CBStairs
     2300046: CBStairs_001
     2300048: CB_Rooms_FirstFloor_002
+    2300050: CB_Rooms_ThirdFloor
+    2300052: Support
+    2300054: Support_001
+    2300056: CB_Rooms_FirstFloor_003
+    2300058: CBStairs_002
+    2300060: Support_002
+    2300062: Stage
+    2300064: CB_Rooms_SecondFloor_001
+    2300066: CB_Rooms_FirstFloor_004
+    2300068: CB_Rooms_FirstFloor_005
+    2300070: CB_Rooms_SecondFloor_002
+    2300072: CB_Rooms_SecondFloor_003
+    2300074: CB_Rooms_FirstFloor_006
+    2300076: Cube_001
+    2300078: Cube_011
+    2300080: Cube_012
+    2300082: CB_Rooms_FirstFloor_007
+    2300084: CB_Rooms_FirstFloor_008
+    2300086: CB_Rooms_FirstFloor_009
     3300000: CB_Rooms_FirstFloor
     3300002: CB_Rooms_SecondFloor
     3300004: CB_Rooms_TirdFloor
@@ -107,6 +164,25 @@ ModelImporter:
     3300044: CBStairs
     3300046: CBStairs_001
     3300048: CB_Rooms_FirstFloor_002
+    3300050: CB_Rooms_ThirdFloor
+    3300052: Support
+    3300054: Support_001
+    3300056: CB_Rooms_FirstFloor_003
+    3300058: CBStairs_002
+    3300060: Support_002
+    3300062: Stage
+    3300064: CB_Rooms_SecondFloor_001
+    3300066: CB_Rooms_FirstFloor_004
+    3300068: CB_Rooms_FirstFloor_005
+    3300070: CB_Rooms_SecondFloor_002
+    3300072: CB_Rooms_SecondFloor_003
+    3300074: CB_Rooms_FirstFloor_006
+    3300076: Cube_001
+    3300078: Cube_011
+    3300080: Cube_012
+    3300082: CB_Rooms_FirstFloor_007
+    3300084: CB_Rooms_FirstFloor_008
+    3300086: CB_Rooms_FirstFloor_009
     4300000: CB_Rooms_SecondFloor
     4300002: CB_Rooms_TirdFloor
     4300004: Cube_010
@@ -132,6 +208,25 @@ ModelImporter:
     4300044: CBStairs_001
     4300046: CBStairs
     4300048: CB_Rooms_FirstFloor_002
+    4300050: CB_Rooms_ThirdFloor
+    4300052: Support_001
+    4300054: Support
+    4300056: CB_Rooms_FirstFloor_003
+    4300058: CBStairs_002
+    4300060: Support_002
+    4300062: Stage
+    4300064: CB_Rooms_SecondFloor_001
+    4300066: CB_Rooms_FirstFloor_005
+    4300068: CB_Rooms_FirstFloor_004
+    4300070: CB_Rooms_SecondFloor_003
+    4300072: CB_Rooms_SecondFloor_002
+    4300074: CB_Rooms_FirstFloor_006
+    4300076: Cube_001
+    4300078: Cube_011
+    4300080: Cube_012
+    4300082: CB_Rooms_FirstFloor_007
+    4300084: CB_Rooms_FirstFloor_008
+    4300086: CB_Rooms_FirstFloor_009
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
