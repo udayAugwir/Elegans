@@ -48,6 +48,16 @@ ModelImporter:
     100084: CB_Rooms_FirstFloor_007
     100086: CB_Rooms_FirstFloor_008
     100088: CB_Rooms_FirstFloor_009
+    100090: Cube_013
+    100092: Cube_014
+    100094: Plane_004
+    100096: Cube_015
+    100098: Plane_005
+    100100: Plane_006
+    100102: CB_Rooms_FirstFloor_010
+    100104: Plane_007
+    100106: Plane_008
+    100108: Plane_009
     400000: CB_Rooms_FirstFloor
     400002: CB_Rooms_SecondFloor
     400004: CB_Rooms_TirdFloor
@@ -93,6 +103,16 @@ ModelImporter:
     400084: CB_Rooms_FirstFloor_007
     400086: CB_Rooms_FirstFloor_008
     400088: CB_Rooms_FirstFloor_009
+    400090: Cube_013
+    400092: Cube_014
+    400094: Plane_004
+    400096: Cube_015
+    400098: Plane_005
+    400100: Plane_006
+    400102: CB_Rooms_FirstFloor_010
+    400104: Plane_007
+    400106: Plane_008
+    400108: Plane_009
     2100000: unnamed
     2100002: Material
     2100004: Material_001
@@ -140,6 +160,16 @@ ModelImporter:
     2300082: CB_Rooms_FirstFloor_007
     2300084: CB_Rooms_FirstFloor_008
     2300086: CB_Rooms_FirstFloor_009
+    2300088: Cube_013
+    2300090: Cube_014
+    2300092: Plane_004
+    2300094: Cube_015
+    2300096: Plane_005
+    2300098: Plane_006
+    2300100: CB_Rooms_FirstFloor_010
+    2300102: Plane_007
+    2300104: Plane_008
+    2300106: Plane_009
     3300000: CB_Rooms_FirstFloor
     3300002: CB_Rooms_SecondFloor
     3300004: CB_Rooms_TirdFloor
@@ -184,6 +214,16 @@ ModelImporter:
     3300082: CB_Rooms_FirstFloor_007
     3300084: CB_Rooms_FirstFloor_008
     3300086: CB_Rooms_FirstFloor_009
+    3300088: Cube_013
+    3300090: Cube_014
+    3300092: Plane_004
+    3300094: Cube_015
+    3300096: Plane_005
+    3300098: Plane_006
+    3300100: CB_Rooms_FirstFloor_010
+    3300102: Plane_007
+    3300104: Plane_008
+    3300106: Plane_009
     4300000: CB_Rooms_SecondFloor
     4300002: CB_Rooms_TirdFloor
     4300004: Cube_010
@@ -228,6 +268,16 @@ ModelImporter:
     4300082: CB_Rooms_FirstFloor_007
     4300084: CB_Rooms_FirstFloor_008
     4300086: CB_Rooms_FirstFloor_009
+    4300088: Cube_014
+    4300090: Cube_013
+    4300092: Plane_004
+    4300094: Cube_015
+    4300096: Plane_006
+    4300098: Plane_005
+    4300100: CB_Rooms_FirstFloor_010
+    4300102: Plane_009
+    4300104: Plane_008
+    4300106: Plane_007
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
