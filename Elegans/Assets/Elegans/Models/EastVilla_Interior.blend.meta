@@ -26,6 +26,19 @@ ModelImporter:
     100040: SecondFloor
     100042: SecondFloor_001
     100044: WindowPlane_007
+    100046: GroundFloor_008
+    100048: SecondFloor_002
+    100050: FirstFloor_001
+    100052: FirstFloor_002
+    100054: GroundFloor_009
+    100056: GroundFloor_010
+    100058: GroundFloor_011
+    100060: FirstFloor_003
+    100062: FirstFloor_004
+    100064: GroundFloor_012
+    100066: GroundFloor_013
+    100068: GroundFloor_014
+    100070: GroundFloor_015
     400000: Cube
     400002: Cube_001
     400004: Cube_002
@@ -49,6 +62,19 @@ ModelImporter:
     400040: SecondFloor
     400042: SecondFloor_001
     400044: WindowPlane_007
+    400046: GroundFloor_008
+    400048: SecondFloor_002
+    400050: FirstFloor_001
+    400052: FirstFloor_002
+    400054: GroundFloor_009
+    400056: GroundFloor_010
+    400058: GroundFloor_011
+    400060: FirstFloor_003
+    400062: FirstFloor_004
+    400064: GroundFloor_012
+    400066: GroundFloor_013
+    400068: GroundFloor_014
+    400070: GroundFloor_015
     2100000: unnamed
     2100002: Material_001
     2100004: Material
@@ -74,6 +100,19 @@ ModelImporter:
     2300038: SecondFloor
     2300040: SecondFloor_001
     2300042: WindowPlane_007
+    2300044: GroundFloor_008
+    2300046: SecondFloor_002
+    2300048: FirstFloor_001
+    2300050: FirstFloor_002
+    2300052: GroundFloor_009
+    2300054: GroundFloor_010
+    2300056: GroundFloor_011
+    2300058: FirstFloor_003
+    2300060: FirstFloor_004
+    2300062: GroundFloor_012
+    2300064: GroundFloor_013
+    2300066: GroundFloor_014
+    2300068: GroundFloor_015
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -96,6 +135,19 @@ ModelImporter:
     3300038: SecondFloor
     3300040: SecondFloor_001
     3300042: WindowPlane_007
+    3300044: GroundFloor_008
+    3300046: SecondFloor_002
+    3300048: FirstFloor_001
+    3300050: FirstFloor_002
+    3300052: GroundFloor_009
+    3300054: GroundFloor_010
+    3300056: GroundFloor_011
+    3300058: FirstFloor_003
+    3300060: FirstFloor_004
+    3300062: GroundFloor_012
+    3300064: GroundFloor_013
+    3300066: GroundFloor_014
+    3300068: GroundFloor_015
     4300000: GroundFloor_007
     4300002: GroundFloor_006
     4300004: GroundFloor_005
@@ -118,6 +170,19 @@ ModelImporter:
     4300038: GroundFloor
     4300040: FirstFloor
     4300042: SecondFloor
+    4300044: GroundFloor_008
+    4300046: SecondFloor_002
+    4300048: FirstFloor_001
+    4300050: FirstFloor_002
+    4300052: GroundFloor_009
+    4300054: GroundFloor_010
+    4300056: GroundFloor_011
+    4300058: FirstFloor_004
+    4300060: FirstFloor_003
+    4300062: GroundFloor_012
+    4300064: GroundFloor_013
+    4300066: GroundFloor_015
+    4300068: GroundFloor_014
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
@@ -160,7 +225,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
