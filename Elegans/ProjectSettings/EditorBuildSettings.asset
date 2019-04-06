@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Elegans/Scenes/ClubHouse.unity
     guid: 6273bbb23cbdd0c43b13b8df07624598
+  - enabled: 1
+    path: Assets/Elegans/Scenes/EastVilla.unity
+    guid: 3e75da6b02396634bba8ab59a44fc920
   m_configObjects: {}
