@@ -18,7 +18,7 @@ using UnityEngine.UI;
 /// </summary>
 public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandler
 {
-    public Canvas Canv;
+    public Canvas Canv, villacanv;
     public GameObject infoIcon;
 
     #region PROTECTED_MEMBER_VARIABLES
@@ -109,6 +109,7 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
     protected virtual void OnTrackingLost()
     {
         Canv.gameObject.SetActive(false);
+        villacanv.gameObject.SetActive(false);
         var rendererComponents = GetComponentsInChildren<Renderer>(true);
         var colliderComponents = GetComponentsInChildren<Collider>(true);
         var canvasComponents = GetComponentsInChildren<Canvas>(true);
