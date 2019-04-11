@@ -39,6 +39,8 @@ ModelImporter:
     100066: GroundFloor_013
     100068: GroundFloor_014
     100070: GroundFloor_015
+    100072: Wall
+    100074: Floor
     400000: Cube
     400002: Cube_001
     400004: Cube_002
@@ -75,6 +77,8 @@ ModelImporter:
     400066: GroundFloor_013
     400068: GroundFloor_014
     400070: GroundFloor_015
+    400072: Wall
+    400074: Floor
     2100000: unnamed
     2100002: Material_001
     2100004: Material
@@ -113,6 +117,8 @@ ModelImporter:
     2300064: GroundFloor_013
     2300066: GroundFloor_014
     2300068: GroundFloor_015
+    2300070: Wall
+    2300072: Floor
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -148,6 +154,8 @@ ModelImporter:
     3300064: GroundFloor_013
     3300066: GroundFloor_014
     3300068: GroundFloor_015
+    3300070: Wall
+    3300072: Floor
     4300000: GroundFloor_007
     4300002: GroundFloor_006
     4300004: GroundFloor_005
@@ -183,6 +191,8 @@ ModelImporter:
     4300064: GroundFloor_013
     4300066: GroundFloor_015
     4300068: GroundFloor_014
+    4300070: Wall
+    4300072: Floor
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
