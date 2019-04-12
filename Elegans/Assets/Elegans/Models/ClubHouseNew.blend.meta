@@ -1739,6 +1739,7 @@ ModelImporter:
     2301148: CB_Floor_011
     2301150: CB_Stage
     2301152: CB_Floor_012
+    2301154: //RootNode
     3300000: CB_Rooms_FirstFloor
     3300002: CB_Rooms_SecondFloor
     3300004: CB_Rooms_TirdFloor
@@ -2316,6 +2317,7 @@ ModelImporter:
     3301148: CB_Floor_011
     3301150: CB_Stage
     3301152: CB_Floor_012
+    3301154: //RootNode
     4300000: CB_Rooms_SecondFloor
     4300002: CB_Rooms_TirdFloor
     4300004: Cube_010
